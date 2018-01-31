@@ -30,7 +30,7 @@ Distributed Deep Learning is quickly becoming a standard way of performing train
   * [Viktor Khristenko](mailto:viktor.khristenko.cern.ch)
   * [Luca Canali](mailto:Luca.Canali@cern.ch)
   * [Prasanth Kothuri](mailto:prasanth.kothuri@cern.ch)
-  * [Vaggelis Motesnitsalis] (mailto:vaggelis.motesnitsalis@cern.ch)
+  * [Vaggelis Motesnitsalis](mailto:vaggelis.motesnitsalis@cern.ch)
   * [Maurizio Pierini](mailto:Maurizio.Pierini@cern.ch)
 
 ## Links
