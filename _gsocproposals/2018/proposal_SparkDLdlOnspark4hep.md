@@ -43,4 +43,3 @@ Distributed Deep Learning is quickly becoming a standard way of performing train
   * [Horovod](https://github.com/uber/horovod)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
   * [Distributed Keras](https://github.com/cerndb/dist-keras)
-  
