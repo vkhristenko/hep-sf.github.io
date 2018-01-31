@@ -18,7 +18,8 @@ Recent development of [scala-js](https://www.scala-js.org/) and [scala-native](s
   * Add the ability to write ROOT files to disk.
 
 ## Expected results
-  * A core package, which is cross-compilable and both Input/Output are working for the most common ROOT primitives.
+  * A core package, which is cross-compilable
+  * Input/Output are working for the most common ROOT primitives (THXY, TGraph, TTree for TBranch cases).
 
 ## Requirements
   * Scala
